@@ -1,9 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Download all the files and put them in a folder.
-Delete the node_modules folder and package-lock.json if present.
-Open the command window inside the folder.
-run 'npm install' and then run 'npm start' to start react server on your local machine.
+Step 1 : Download all the files and put them in a folder.<br />
+Step 2 : Delete the node_modules folder and package-lock.json if present.<br />
+Step 3 : Open the command window inside the folder.<br />
+Step 4 : run 'npm install' and then run 'npm start' to start react server on your local machine.<br />
 
 ### `npm start`
 
